@@ -1,0 +1,19 @@
+
+----HOME PAGE----
+
+Welcome to Paul, Peter, and Patrick's radio station!
+Here we like to talk about different subjects such as music, movies, and more.
+As well as our radio station we also upload weekly podcasts, with new episodes 
+every monday uploaded to  the website, click 'podcasts' above to see more.
+<end paragraph>
+
+--FEATURED--
+click here to see our latest podcast episode!
+<image of podcast episode that also acts as a button to the podcast page>
+
+<legal info stuff>
+PPPRS is not responsible for blah blah blah boring as hell etc etc 
+
+----RADIO PAGE----
+
+Welcome
